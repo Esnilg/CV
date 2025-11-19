@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D Ingeniería Industrial e Investigación de Operaciones
+role: Ph.D Ingeniería Industrial e Investigación de Operaciones | Especialista en Optimización Estocástica y Ciencia de Datos
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

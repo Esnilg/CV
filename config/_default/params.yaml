@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Esnil Guevara - PhD en Ingeniería Industrial | Especialista en Ciencia de Datos, Machine Learning y Optimización Estocástica. +10 años experiencia en análisis de datos y modelos predictivos.'
+    twitter: 'esnilg'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Ph.D Esnil Guevara"
+      text: "PhD Esnil Guevara - Ciencia de Datos & Optimización Estocástica"
 
 # Site footer
 footer:

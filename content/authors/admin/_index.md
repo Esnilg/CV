@@ -24,8 +24,8 @@ role: Ph.D Ingeniería Industrial e Investigación de Operaciones
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Universidad Andres Bello
-    url: https://www.unab.cl/
+  - name: Universidad UNIACC
+    url: https://www.uniacc.cl/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

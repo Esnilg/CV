@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Beyond Traditional Risk Measures: Cluster-Driven Robustness in Stochastic Energy Models
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org

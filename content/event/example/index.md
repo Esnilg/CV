@@ -13,16 +13,16 @@ address:
   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Strategic energy planning under uncertainty faces critical challenges when addressing high-dimensional parameter spaces through Two-Stage Stochastic Programming. This research investigates the structural patterns emerging from applying different risk measures - risk-neutral, CVaR, and others - within high-dimensional stochastic energy systems. Using unsupervised learning techniques (PCA, UMAP, t-SNE), we first map and characterize the solution space geometry and uncertainty structures inherent to these complex systems. Building on these insights, we propose a novel methodology that leverages hierarchical and K-means clustering to estimate scenario weights directly from data, moving beyond traditional probability assumptions. The clustering analysis enables the identification of critical uncertainty regimes and facilitates the design of innovative constraints that minimize cost dispersion and enhance solution robustness. By interpreting cluster characteristics, we develop targeted model enhancements that strengthen strategic investment decisions against distributional ambiguity. Our approach provides a systematic framework to transform high-dimensional uncertainty into actionable insights, yielding more resilient and interpretable energy planning solutions validated through computational experiments.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2026-02-23T13:00:00Z'
+date_end: '20326-02-27T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-11-01T00:00:00Z'
 
 authors:
   - admin

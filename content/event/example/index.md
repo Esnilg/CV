@@ -18,7 +18,7 @@ abstract: 'Strategic energy planning under uncertainty faces critical challenges
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2026-02-23T13:00:00Z'
-date_end: '20326-02-27T15:00:00Z'
+date_end: '2026-02-27T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

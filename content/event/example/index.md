@@ -1,16 +1,16 @@
 ---
 title: Beyond Traditional Risk Measures, Cluster-Driven Robustness in Stochastic Energy Models
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: XV Brazilian Workshop on Continuous Optimization (BRAZOPT 2026)
+event_url: https://brazopt2026.blumenau.ufsc.br/
 
-location: Hugo Blox Builder HQ
+location:  Universidade Federal de Santa Catarina (UFSC), Blumenau Campus
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: Florianópolis
+  region: Blumenau, Santa Catarina
+  postcode: ''
+  country: Brazil
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Strategic energy planning under uncertainty faces critical challenges when addressing high-dimensional parameter spaces through Two-Stage Stochastic Programming. This research investigates the structural patterns emerging from applying different risk measures - risk-neutral, CVaR, and others - within high-dimensional stochastic energy systems. Using unsupervised learning techniques (PCA, UMAP, t-SNE), we first map and characterize the solution space geometry and uncertainty structures inherent to these complex systems. Building on these insights, we propose a novel methodology that leverages hierarchical and K-means clustering to estimate scenario weights directly from data, moving beyond traditional probability assumptions. The clustering analysis enables the identification of critical uncertainty regimes and facilitates the design of innovative constraints that minimize cost dispersion and enhance solution robustness. By interpreting cluster characteristics, we develop targeted model enhancements that strengthen strategic investment decisions against distributional ambiguity. Our approach provides a systematic framework to transform high-dimensional uncertainty into actionable insights, yielding more resilient and interpretable energy planning solutions validated through computational experiments.'

@@ -1,6 +1,6 @@
 ---
 title: Carga de Datos con pandas.read_
-summary: Guía Técnica: Carga de Datos con pandas.read_
+summary: Guía Técnica, Carga de Datos con pandas.read_
 date: 2023-10-24
 type: docs
 math: false

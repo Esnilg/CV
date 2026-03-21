@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Especialista en Optimización Estocástica y Ciencia de Datos
+role: Specialist in Stochastic Optimization and Data Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -54,7 +54,7 @@ interests:
   - Data Sciencie
 
 education:
-  - area: PhD Ingeniería Industrial e Investigación de Operaciones
+  - area: PhD in Industrial Engineering and Operations Research
     institution: Universidad Adolfo Ibáñez
     date_start: 2016-03-06
     date_end: 2022-07-01
@@ -63,26 +63,26 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://github.com/Esnilg/Datos/blob/main/Esnil_tesis_v4.pdf'
-  - area: Magíster en Ciencias de la Computación
+  - area: Master of Science in Computer Science
     institution: Universidad Simón Bolívar
     date_start: 2009-09-01
     date_end: 2014-07-01
     summary: |
-      Thesis on ALGORITMO DE PUNTOS INTERIORES DE BAJO COSTO APLICADO AL PROBLEMA DE MÁQUINAS DE SOPORTE VECTORIAL. Supervised by [Maria D. Gonzalez-Lima](https://www.researchgate.net/profile/Maria-Gonzalez-Lima).
+      Thesis on LOW-COST INTERIOR POINT ALGORITHM APPLIED TO THE SUPPORT VECTOR MACHINE PROBLEM. Supervised by [Maria D. Gonzalez-Lima](https://www.researchgate.net/profile/Maria-Gonzalez-Lima).
     button:
       text: 'Read Thesis'
       url: 'https://github.com/Esnilg/Datos/blob/main/Tesis_Esnil_G_V1.pdf'
-  - area: Licenciado en Matemática
+  - area: Bachelor of Science in Mathematics
     institution: Universidad de Carabobo
     date_start: 2002-09-01
     date_end: 2008-12-01
     summary: |
-      Thesis on COMPARACION DE TECNICAS DE PLE PARA EL PROBLEMA DE MOCHILA MULTIPLE CON COLORES CON APLICACION A LA DISTRIBUCION DE VEHICULOS NUEVOS EN VENEZUELA. Supervised by [Victor Griffin](https://www.researchgate.net/profile/Victor-Griffin-2).
+      Thesis on COMPARISON OF PLE TECHNIQUES FOR THE MULTIPLE BACKPACK PROBLEM WITH COLORS WITH APPLICATION TO THE DISTRIBUTION OF NEW VEHICLES IN VENEZUELA. Supervised by [Victor Griffin](https://www.researchgate.net/profile/Victor-Griffin-2).
     button:
       text: 'Read Thesis'
       url: 'https://github.com/Esnilg/Datos/blob/main/uprmthesis_mainfile_esp.pdf'
 work:
-  - position: Analista de Inteligencia de Negocios
+  - position: Business Intelligence Analyst
     company_name: Suministros Telefónicos y Computacionales ESTEC LTDA
     company_url: 'https://www.estec.cl/'
     company_logo: 'https://www.estec.cl/media/logo/stores/1/estec_logo_G.png'
@@ -90,11 +90,11 @@ work:
     date_end: '2023-04-01'
     summary: |2-
       Responsibilities include:
-      - Análisis de datos
-      - Despliegue de modelos de Machine Learning. (Comportamiento de pago de los clientes, Forecasting) 
-      - Desarrollo modelos matemáticos. (Stock de Seguridad, Cross Selling, Supply Chain, Slotting, Proyección de inventario)
-      - Desarrollar paneles a través de Power BI en diferentes areas de la empresa.
-  - position: Analista de modelos del Sistema de Soporte de Decisión
+      - Data analysis
+      - Deployment of machine learning models (customer payment behavior, forecasting)
+      - Development of mathematical models (safety stock, cross-selling, supply chain, slotting, inventory projection)
+      - Development of dashboards using Power BI for different areas of the company.
+  - position: Decision Support System Model Analyst
     company_name: Laboratorios Vargas S.A.
     company_url: 'https://www.laboratoriosvargas.com/'
     company_logo: 'https://www.laboratoriosvargas.com/wp-content/uploads/2021/01/Logo-Footer-Shadow.png'
@@ -102,12 +102,12 @@ work:
     date_end: 2014-09-01
     summary: |
       Responsibilities include:
-      - Análisis de demanda de los producto farmacéuticos e indicadores de ventas
-      - Despliegue de modelos de Machine Learning.
-      - Crear plan de producción anual de la empresa. 
-      - Entregar reportes de la disponibilidad y vencimiento de la materia prima.
-      - Velar por el cumplimiento de las metas establecidas de producción.
-  - position: Pasantía
+      - Analyzing demand for pharmaceutical products and sales indicators
+      - Deploying machine learning models
+      - Creating the company's annual production plan
+      - Submitting reports on raw material availability and expiration dates
+      - Ensuring compliance with established production goals
+  - position: Internship
     company_name: Base Logística Aragua
     company_url: ''
     company_logo: ''
@@ -115,8 +115,8 @@ work:
     date_end: 2007-12-01
     summary: |
       Responsibilities include:
-      - Realizar estudios de la base de datos actual.
-      - Homogenizar y depurar de los datos faltantes, mediante una interfaz gráfica que conecta R y MySQL.
+      - Conducting studies of the current database.
+      - Homogenizing and cleaning up missing data using a graphical interface that connects R and MySQL.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -210,16 +210,14 @@ languages:
 
 ## About Me
 
-Soy licenciado en Matemática, con una maestría en Ciencias de la Computación y un doctorado en Ingeniería Industrial e Investigación de Operaciones. Poseo más de 10 años de experiencia desarrollando y aplicando modelos de optimización, predicción y
-análisis avanzado de datos. Mi experiencia incluye:
+I hold a degree in Mathematics, a Master's degree in Computer Science, and a PhD in Industrial Engineering and Operations Research. I have over 10 years of experience in the development and application of optimization, prediction, and advanced data analysis models. My experience includes:
 
+- Machine learning and deep learning: Creation and interpretation of predictive models.
 
-- Machine Learning y Deep Learning: Construcción e interpretación de modelos predictivos.
+- Business intelligence: Creation of dashboards and automated reports using Power BI.
 
-- Inteligencia de Negocios: Creación de dashboards y reportes automatizados con Power BI.
+- Teaching and research: Teaching data science and optimization courses using Python.
 
-- Docencia e Investigación: Enseñanza de ciencia de datos y optimización utilizando Python.
+- Mathematical modeling: Development of solutions for problems in the energy, telecommunications, and logistics sectors.
 
-- Modelos Matemáticos: Desarrollo de soluciones para problemas en energía, telecomunicaciones y logística.
-
-Estoy comprometido con aportar mi experiencia para cumplir los objetivos de proyectos interdisciplinarios.
+I am committed to contributing my expertise to achieve the objectives of interdisciplinary projects.

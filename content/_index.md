@@ -35,16 +35,15 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Como investigador y docente, mi investigación se centra en la aplicación de técnicas avanzadas de análisis de datos y modelos predictivos para mejorar la toma de decisiones tanto en el ámbito empresarial como en la vida cotidiana de las personas.
+        As a researcher and lecturer, my research focuses on the application of advanced data analysis techniques and predictive models to improve decision-making in both the business world and everyday life.
 
-        En el contexto empresarial, mi trabajo se enfoca en desarrollar y optimizar modelos de aprendizaje supervisado y no supervisado que permitan a las empresas predecir tendencias de mercado, segmentar clientes de manera efectiva y mejorar la eficiencia operativa. Por ejemplo, utilizo algoritmos de clustering para identificar grupos de clientes con comportamientos similares, lo que permite a las empresas diseñar estrategias de marketing más personalizadas y efectivas. Tambien, he aplicado técnicas de optimización estocástica en contexto de demanda y costos de operaciones inciertos para fortalecer la toma de decisiones estratégicas, evaluando mediante distintos escenarios la soluciones estratégicas para garantizar soluciones robustas y adaptables.
+        In the business sector, my work focuses on the development and optimization of supervised and unsupervised learning models that allow companies to predict market trends, effectively segment customers, and improve operational efficiency. For example, I use clustering algorithms to identify groups of customers with similar behaviors, enabling companies to design more personalized and effective marketing strategies. I have also applied stochastic optimization techniques in contexts of uncertain demand and operating costs to strengthen strategic decision-making, evaluating strategic solutions across different scenarios to ensure robust and adaptable solutions.
 
+        On a personal level, my research aims to democratize the use of data analysis tools so that people can make more informed decisions in their daily lives. This includes developing applications and tutorials that allow everyday users to utilize data mining techniques to analyze their personal finances, optimize their spending habits, or even improve their health by analyzing physical activity and nutrition data.
 
-        En el ámbito personal, mi investigación busca democratizar el uso de herramientas de análisis de datos para que las personas puedan tomar decisiones más informadas en su vida diaria. Esto incluye el desarrollo de aplicaciones y tutoriales que permitan a los usuarios comunes utilizar técnicas de data mining para analizar sus finanzas personales, optimizar sus hábitos de consumo, o incluso mejorar su salud mediante el análisis de datos de actividad física y nutrición.
+        Furthermore, I am interested in the ethics of data use and how individuals can protect their privacy while benefiting from the advantages of data analysis. This involves researching data anonymization methods and developing practical guides to help users understand and control how their data is used.
 
-        Además, estoy interesado en la ética del uso de datos y en cómo las personas pueden proteger su privacidad mientras se benefician de las ventajas del análisis de datos. Esto implica investigar métodos de anonimización de datos y desarrollar guías prácticas para que los usuarios comprendan y controlen cómo se utilizan sus datos.
-
-        En resumen, mi investigación no solo se limita a mejorar los procesos empresariales, sino que también busca empoderar a las personas comunes con herramientas y conocimientos que les permitan aprovechar la información que brinda los datos para mejorar su calidad de vida.
+        In short, my research is not limited to improving business processes; it also seeks to empower individuals with the tools and knowledge necessary to leverage the insights provided by data and improve their quality of life.
     design:
       columns: '1'
   - block: collection

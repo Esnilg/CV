@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "PhD Esnil Guevara - Data Science & Stochastic Optimization"
+      text: "Data Science & Stochastic Optimization"
 
 # Site footer
 footer:

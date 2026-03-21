@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Esnil Guevara - PhD en Ingeniería Industrial | Especialista en Ciencia de Datos, Machine Learning y Optimización Estocástica. +10 años experiencia en análisis de datos y modelos predictivos.'
+    description: 'Esnil Guevara - PhD in Industrial Engineering | Specialist in Data Science, Machine Learning, and Stochastic Optimization. Over 10 years of experience in data analysis and predictive modeling.'
     twitter: 'esnilg'
   analytics:
     google_analytics: 'G-41TTN9QQDS'
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "PhD Esnil Guevara - Ciencia de Datos & Optimización Estocástica"
+      text: "PhD Esnil Guevara - Data Science & Stochastic Optimization"
 
 # Site footer
 footer:
